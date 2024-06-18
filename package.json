@@ -1,7 +1,7 @@
 {
 	"name": "reactfolio",
 	"version": "1.1.0",
-	"homepage": "samirbenbouker.github.io",
+	"homepage": "https://samirbenbouker.github.io/main",
 	"description": "Personal portfolio template built using Reactjs",
 	"author": {
 		"name": "Tharindu N. Madhusanka",
@@ -26,7 +26,8 @@
 		"react-router-dom": "^6.11.1",
 		"react-scripts": "5.0.1",
 		"styled-components": "^5.3.10",
-		"web-vitals": "^2.1.4"
+		"web-vitals": "^2.1.4",
+		"gh-pages":"6.1.1"
 	},
 	"scripts": {
 		"start": "react-scripts start",
